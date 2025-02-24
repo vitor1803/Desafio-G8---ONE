@@ -8,7 +8,7 @@ function alterar() {
     } else {
         lista_amigos.push(amigo_novo);
         let amigos = document.getElementById('amigos')
-        amigos.innerHTML = lista_amigos
+        amigos.innerHTML = lista_amigos.join("<br>")
     }
 }
 function sortear() {
