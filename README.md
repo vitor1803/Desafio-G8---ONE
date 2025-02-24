@@ -4,7 +4,6 @@
 
 Esse projeto foi desenvolvido como parte do curso "Curso de Praticando Logica de programação: Challenge amigo secreto" dentro da foramcão "Iniciante em Programação G8 - ONE" no programa "Oracle Next Education".
 
-
 Neste desafio, eu desenvolvi uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
 
 O usuário deverá adicionar nomes por meio de um campo de texto e de um botão "Adicionar".
